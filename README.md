@@ -1,8 +1,5 @@
-# React + Vite
+***ContextMenu Button:
+Configured to handle the draw-end process for both LineStrings and Polygons using the right-click (mouse) context menu.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is the first version of the project, and while the current implementation is functional and meets the core requirements, there are areas of improvement to enhance functionality and user experience.
